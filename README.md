@@ -13,6 +13,7 @@ even harder.
 
 :video_game::books: I love reading books and playing video games. Well when it comes to books i will choose those about personal development or thriller ones. Currently reading **Thinking, Fast and Slow** by Kahneman Daniel and my favorite thriller is **I Am Pilgrim** by Terry Hayes. Regarding to playing games i would choose online games and skilled ones.
 
+
 ## :star: Technology stack
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -26,6 +27,7 @@ even harder.
 <img align="left"alt="Java"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left"alt="Java"width="50px"src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png" />
 <img alt="Java"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
 
 ## :mailbox: Contact and socials
 chomentowski.s@gmail.com<br/>
