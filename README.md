@@ -1,4 +1,4 @@
-# Hi there 👋:rocket:
+# Hi there 👋
 
 ## :sparkles: About me
 
